@@ -10,5 +10,6 @@ public class Dugujiujian {
 		System.out.println("独孤九剑11112222");
 		System.out.println("独孤九剑11113333");
 		System.out.println("岳不群来了");
+		System.out.println("我要弄死你");
 	}
 }
